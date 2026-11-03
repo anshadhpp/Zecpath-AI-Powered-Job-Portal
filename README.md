@@ -115,8 +115,8 @@ Tests live in `tests/`. Every new function should come with a test.
 
 ## Code standards
 
-Style, docstring format and commit rules are in
-[docs/CODE_STANDARDS.md](docs/CODE_STANDARDS.md).
+See [docs/CODE_STANDARDS.md](docs/CODE_STANDARDS.md) for the full rules: PEP 8 style,
+Google-style docstrings, Git branching, commit message format, and testing and logging conventions.
 
 Git workflow:
 - Branches: `main` (stable), `dev` (integration), `feature/<name>`
