@@ -1,0 +1,5 @@
+Asha Nair
+asha.nair@example.com
+MERN Stack Developer with 3 years of experience.
+Skills: React, Node.js, MongoDB, Express, Git, Docker
+Education: B.Tech in Computer Science
